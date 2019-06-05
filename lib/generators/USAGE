@@ -1,0 +1,8 @@
+Description:
+    ControllerのActionで利用するModelに対応したModuleを生成します。
+
+Example:
+    rails g rails_concern controller_name#index-model_one
+
+    This will create:
+        - app/models/controller_names/index/model_one.rb
