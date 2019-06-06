@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/sogasusumu/rails_const_normalizer.git
-  revision: c4593c6c6033046ed8b0a515a30b235a5098b893
+  revision: 3e815927effe8760412645f6e0ae9abe3a06cd30
   specs:
-    rails_const_normalizer (0.1.2)
+    rails_const_normalizer (0.1.3)
       activesupport
       contracts
 
